@@ -12,9 +12,7 @@
 
 **Thanks for visiting :heart:**
 
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/eilgnaw/count.svg">  
-</p>
+
 
 ![GitHub Snake Light](https://github.com/eilgnaw/eilgnaw/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Light](https://github.com/eilgnaw/eilgnaw/blob/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only#gh-dark-mode-only)
@@ -24,8 +22,7 @@
 
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 
-
-| <a href="https://github.com/eilgnaw"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eilgnaw&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=8E354A&text_color=616138&icon_color=616138&custom_title=Eilgnaw%27s%20Github%20Stats" alt="Eilgnaw's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eilgnaw&layout=compact&theme=buefy&hide_border=true&title_color=8E354A&text_color=616138&icon_color=8E354A" /></a> |
+| <a href="https://github.com/eilgnaw"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eilgnaw&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=8E354A&text_color=616138&icon_color=616138&custom_title=Eilgnaw%27s%20Github%20Stats" /></a> | <a href="https://github.com/eilgnaw"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eilgnaw&layout=compact&theme=buefy&hide_border=true&title_color=8E354A&text_color=616138&icon_color=8E354A" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 <br />
